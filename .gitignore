@@ -1,0 +1,5 @@
+build/
+dist/
+*.user
+.vs/
+eye_tracking_monitor_log.txt
